@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-11-19T00:07:17.390Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="jh55eqjpbwtNa8Wpp-_-" version="15.8.2" type="github">
+<mxfile host="app.diagrams.net" modified="2021-11-19T04:57:08.033Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="0H9OrCcXpLW2hcqkrey5" version="15.8.2" type="github">
   <diagram id="K4cYNsEPG29VMQZ34EFH" name="Page-1">
-    <mxGraphModel dx="1640" dy="1021" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2686" dy="1546" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -14,21 +14,21 @@
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-19" value="&amp;gt;200MB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="btunTlJeTqZtARJWf4t9-17" vertex="1" connectable="0">
           <mxGeometry x="-0.1884" y="-1" relative="1" as="geometry">
-            <mxPoint x="23" y="-1" as="offset" />
+            <mxPoint x="19" y="-11" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="btunTlJeTqZtARJWf4t9-2" target="btunTlJeTqZtARJWf4t9-18" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="240" as="sourcePoint" />
+            <mxPoint x="1590" y="240" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-21" value="&amp;lt;200MB" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="btunTlJeTqZtARJWf4t9-20" vertex="1" connectable="0">
           <mxGeometry x="-0.0471" y="-1" relative="1" as="geometry">
-            <mxPoint x="19" y="-1" as="offset" />
+            <mxPoint x="19" y="9" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-2" value="is file &amp;gt; 200MB" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="960" y="200" width="80" height="80" as="geometry" />
+          <mxGeometry x="1500" y="200" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="btunTlJeTqZtARJWf4t9-3" target="btunTlJeTqZtARJWf4t9-5" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -57,20 +57,30 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-16" value="File Synchronisation Method" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="130" width="120" height="60" as="geometry" />
+          <mxGeometry x="1650" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="btunTlJeTqZtARJWf4t9-18" target="btunTlJeTqZtARJWf4t9-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-18" value="File Upload Method" style="shape=process;whiteSpace=wrap;html=1;backgroundOutline=1;" parent="1" vertex="1">
-          <mxGeometry x="1110" y="290" width="120" height="60" as="geometry" />
+          <mxGeometry x="1650" y="290" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-22" value="File Uploaded" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
-          <mxGeometry x="1320" y="210" width="60" height="60" as="geometry" />
+          <mxGeometry x="1860" y="210" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-27" value="No" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="btunTlJeTqZtARJWf4t9-26" target="btunTlJeTqZtARJWf4t9-2" edge="1">
-          <mxGeometry x="-0.4706" y="50" relative="1" as="geometry">
+          <mxGeometry x="-0.4824" y="50" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-24" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="btunTlJeTqZtARJWf4t9-27">
+          <mxGeometry x="0.5906" y="-3" relative="1" as="geometry">
+            <mxPoint x="4" y="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-27" value="No" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="btunTlJeTqZtARJWf4t9-27">
+          <mxGeometry x="-0.1129" y="-3" relative="1" as="geometry">
+            <mxPoint y="-13" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="btunTlJeTqZtARJWf4t9-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="btunTlJeTqZtARJWf4t9-26" target="btunTlJeTqZtARJWf4t9-28" edge="1">
@@ -126,6 +136,55 @@
         </mxCell>
         <mxCell id="0m0xDE48BSTO7XbDhny9-7" value="Archive Old File &lt;br&gt;and Set File &lt;br&gt;Storage Status&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="820" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0m0xDE48BSTO7XbDhny9-12" target="0m0xDE48BSTO7XbDhny9-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-26" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0m0xDE48BSTO7XbDhny9-14">
+          <mxGeometry x="-0.55" y="-2" relative="1" as="geometry">
+            <mxPoint x="12" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-12" value="Rename &lt;br&gt;Files on Upload?" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="900" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0m0xDE48BSTO7XbDhny9-13" target="0m0xDE48BSTO7XbDhny9-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-13" value="Rename File" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="880" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="0m0xDE48BSTO7XbDhny9-16">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1170" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-25" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0m0xDE48BSTO7XbDhny9-18">
+          <mxGeometry x="0.0154" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-16" value="Maintain Original Filename" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0m0xDE48BSTO7XbDhny9-19" target="0m0xDE48BSTO7XbDhny9-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-23" value="Yes" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="0m0xDE48BSTO7XbDhny9-21">
+          <mxGeometry x="-0.1111" y="-3" relative="1" as="geometry">
+            <mxPoint x="7" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-19" value="Assign P.O.I to Upload" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1220" y="200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="0m0xDE48BSTO7XbDhny9-20">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1360" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="0m0xDE48BSTO7XbDhny9-20" value="Assign POI" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="50" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
